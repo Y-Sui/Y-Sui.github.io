@@ -15,7 +15,7 @@ layout: default
 
 ## Publications
 
-**<span class="smallcaps">Published:**
+**<span class="smallcaps"> Published:**
 
 **Sui, Y**, Feng, S, Zhang, H, Cao, J, Hu, L & Zhu, N 2022,
 ‘Causality-aware Enhanced Model for Multi-hop Question Answering over
@@ -35,7 +35,7 @@ field’, Computer Simulation.
 graph’, Journal of Physics: Conference Series, vol. 1883, no. 1, p.
 012064.
 
-**<span class="smallcaps">Under-reviewed:**
+**<span class="smallcaps"> Under-reviewed:**
 
 Yan, W, Shi, Y, **Sui, Y**, Tian, Z, Wang, W & Cao, Q n.d., ‘Intelligent
 Predictive Maintenance of Hydraulic Systems based on Virtual Knowledge
@@ -46,14 +46,12 @@ Yan, W, **Sui, Y**, Cao, Q & Zhang, L n.d., ‘Automatic Relation
 Recognition for Inventive Design.’, Knowledge-Based Systems **\[SCI-1,
 IF:8.139\]**
 
-**<span class="smallcaps">Arxiv:**
+**<span class="smallcaps"> Arxiv:**
 
 ****Sui, Y**, Wang, S, Cheng, Reynold n.d., ‘Learning Causal
 Representations for Knowledge Graph-based Question Answering’, Prepared to submit to ACL'23 **\[Core-ranking:A\]****
 
-**Sui, Y**, Ma, W, Lou, R, Zhang, K, Vosoughi, S, 'Trustworthy-transformer: Probing Transformer Attention Heads in Multi- and Cross-lingual Tasks', Prepared to submit to ACL'23 **\[Core-ranking:A\]**
-
-**<span class="smallcaps">Patents:**
+**<span class="smallcaps"> Patents:**
 
 **Sui, Y**, Shi, Y, Niu, S, Liang, N & Cheng, X, Intelligent Q&A method
 and system based on tourism knowledge graph., CN: CN202110739738,
@@ -68,28 +66,42 @@ I am currently an intern at Microsoft Research Asia (MSRA), DKI group, working w
 
 Previously, I interned at [ICT, VIPL Group](https://vipl.ict.ac.cn) from the Chinese Academy of Sciences, working with [Prof. Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/) & Ph.D. candidate Xinzhe Han; CAD & VC Group from Shandong Normal University, working with [Prof. Wei Yan](https://sarryyan.github.io/) & [Prof. Liang Zhang](https://faculty.sdu.edu.cn/zhangliang/en/index.htm).
 
-- MSRA, DKI, Visiting Intern Fellow; Starting from Aug 2022 to present
-- Dartmouth, Minds, Machines and Society Lab, Research Internship; Starting from June 2022 to present (convert from full-time to part-time since Aug.)
-- ICT, VIPL, Chinese Academy of Sciences, Research Internship; From Mar 2022 to June 2022
-- SDNU, CAD & VC Group, Research Assistant; From Oct 2019 to Mar 2021
+### Institute of Computing Technology, Chinese Academy of Science, VIPL Group
+
++ No.6 Kexueyuan South Road Zhongguancun,Haidian District Beijing,China
++ Responsibility and contribution (takeaways):
+  + Responsible for full project pipeline implementation of KGQA based on semantic parsing, and realize the transformation from query to logical chain to alleviate the semantic hierarchy challenges of the unstructured natural language questions: 1) Spurious entity relations; and 2) Query graph composition; Tuning our seq2seq model to achieve the 85% accuracy shipping bar with the process of intermediate few shots generation, smart idea design and relevant experiments design like hyperparameters searching;
+  + Propose a causal interference-based model (causal filter, CF) using clustering methods to reduce the spurious entity relations and missing link problems in KGQA; The new mechanism based on the causal correlations produced by CF increased the performance of KGQA and obtain the SOTA performance on MetaQA (1hop and 3hop), Webqsp and OpenbookQA in 2021, and the results have been published by Knowledge-Based Systems (SCI-1, IF:8.139, first author); Other paper related to semantic parsing is ready to submit to ACL'23.
+
+### Dartmouth College, The Minds, Machine, and Society group
+
++ ECSC building, 15 Thayer Drive Hanover, NH 03755 (REMOTE)
++ Responsibility and contribution (takeaways):
+  + Responsible for building up the pipeline of evaluation probing to investigate the exact content does large language model (LLMs) learn from scratch, like dependency, pos-tagging, and NER.
+  + To get the insights of LLMs' structures, conduct head-wise & layer-wise experiments to verify the effectiveness and patterns of each component of LLMs.
+  + Try smart ideas on multilingual capabilities of LLMs performance on pos-tagginbg and dependecy-tagging task to verify the impact of language setting.
+  + Takeaways: have two related paper being prepared and will submit them to ACL'23.
+
+### Microsoft Research Asia, DKI group
+
++ Microsoft Research Lab – Asia Building 2, No. 5 Dan Ling Street, Haidian District,Beijing 100080,China
++ Responsibility and contribution (takeaways):
+  + Responsible for building up Metadata model pipeline for inferring tabular analysis by infusing distribution and knowledge information, and transfer the related APIs to Excel team to specific function which will be accessible to users in 2023.
+  + Collect (pro-processing) multilingual tables from Webs, spreadsheets, and synthetic datasets and build up a new benchmark for Metadata evaluation; Tuning Metadata model to achieve the 85% accuracy shipping bar and verify the multilingual capabilities over the new benchmark.
+  + Investigate large language models like MT-530B, BLOOM, GPT-3 for semi-structured data prediction, reasoning and combinatorial generalization; Also, involved in the exploration of the numerical reasoning especially towards tabular information learning.
+
 
 ## Project References
 
 During my undergraduate study, I have been actively engaged in almost 7 research projects involved in the area of **NLP, KB (KG), ML, GNN & Causal-commonsence**. Really thanks to all my advisors for giving me such opportunities to get into these topics.
 
-> [1] Learning Causal Representations for Knowledge Graph-based Question Answering [[codes]](), [[slides]](), (2021-02 -- 2022-03)
->
-> [2] Semantic Parsing for Knowledge Graph-based Question Answering [[codes]](https://github.com/Y-Sui/Semantic-Parsing-for-KGQA), (2022-03 -- 2022-07)
->
-> [3] Trigger-GNN: A Trigger-Based Graph Neural Network for Nested Entity Recognition [[slides]](https://arxiv.org/pdf/2204.05518) (2021-05 -- 2022-02)
->
-> [4] Intelligent Predictive Maintenance of Hydraulic Systems based on Virtual Knowledge Graph [[slides]]() (2021-08 -- 2022-02)
->
-> [5] Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks [[codes]](https://github.com/Y-Sui/eval-probing), [[slides]](assets\pdf\19-probes.pdf) (2022-06 -- Present)
->
-> [6] Reflow Soldering Optimization Simulation based on Zone Center Temperature Prediction [[codes]](), [[slides]]() (2021-08 -- 2022-03)
->
-> [7] IngeniousMatch: Automatic Entity Matching for TRIZ knowledge (2020-10 -- 2022-06)
+- [1] Learning Causal Representations for Knowledge Graph-based Question Answering [[codes]](), [[slides]](), (2021-02 -- 2022-03)
+- [2] Semantic Parsing for Knowledge Graph-based Question Answering [[codes]](https://github.com/Y-Sui/Semantic-Parsing-for-KGQA), (2022-03 -- 2022-07)
+- [3] Trigger-GNN: A Trigger-Based Graph Neural Network for Nested Entity Recognition [[slides]](https://arxiv.org/pdf/2204.05518) (2021-05 -- 2022-02)
+- [4] Intelligent Predictive Maintenance of Hydraulic Systems based on Virtual Knowledge Graph [[slides]]() (2021-08 -- 2022-02)
+- [5] Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks [[codes]](https://github.com/Y-Sui/eval-probing), [[slides]](assets\pdf\19-probes.pdf) (2022-06 -- Present)
+- [6] Reflow Soldering Optimization Simulation based on Zone Center Temperature Prediction [[codes]](), [[slides]]() (2021-08 -- 2022-03)
+- [7] IngeniousMatch: Automatic Entity Matching for TRIZ knowledge (2020-10 -- 2022-06)
 
 ## Activity
 
@@ -97,8 +109,6 @@ During my undergraduate period, I started a school-level robotics lab and recrui
 
 ## Contact
 
-Email: yuansui08@gmail.com
-
-Phone: 86+18141195692
-
-Address: Wencong building, No.1, University Road, Science Park, Changqing District, Ji'nan, Shandong, China
++ Email: yuansui08@gmail.com
++ Phone: 86+18141195692
++ Address: Wencong building, No.1, University Road, Science Park, Changqing District, Ji'nan, Shandong, China
