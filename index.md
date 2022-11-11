@@ -48,7 +48,7 @@ IF:8.139\]**
 
 **Arxiv:**
 
-****Sui, Y**, Wang, S, Cheng, Reynold n.d., ‘Learning Causal
+**Sui, Y**, Wang, S, Cheng, Reynold n.d., ‘Learning Causal
 Representations for Knowledge Graph-based Question Answering’, Prepared to submit to ACL'23 **\[Core-ranking:A\]****
 
 **Patents:**
