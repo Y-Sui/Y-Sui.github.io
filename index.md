@@ -15,7 +15,7 @@ layout: default
 
 ## Publications
 
-**<span class="smallcaps"> Published:**
+**Published:**
 
 **Sui, Y**, Feng, S, Zhang, H, Cao, J, Hu, L & Zhu, N 2022,
 ‘Causality-aware Enhanced Model for Multi-hop Question Answering over
@@ -35,7 +35,7 @@ field’, Computer Simulation.
 graph’, Journal of Physics: Conference Series, vol. 1883, no. 1, p.
 012064.
 
-**<span class="smallcaps"> Under-reviewed:**
+**Under-reviewed:**
 
 Yan, W, Shi, Y, **Sui, Y**, Tian, Z, Wang, W & Cao, Q n.d., ‘Intelligent
 Predictive Maintenance of Hydraulic Systems based on Virtual Knowledge
@@ -46,12 +46,12 @@ Yan, W, **Sui, Y**, Cao, Q & Zhang, L n.d., ‘Automatic Relation
 Recognition for Inventive Design.’, Knowledge-Based Systems **\[SCI-1,
 IF:8.139\]**
 
-**<span class="smallcaps"> Arxiv:**
+**Arxiv:**
 
 ****Sui, Y**, Wang, S, Cheng, Reynold n.d., ‘Learning Causal
 Representations for Knowledge Graph-based Question Answering’, Prepared to submit to ACL'23 **\[Core-ranking:A\]****
 
-**<span class="smallcaps"> Patents:**
+**Patents:**
 
 **Sui, Y**, Shi, Y, Niu, S, Liang, N & Cheng, X, Intelligent Q&A method
 and system based on tourism knowledge graph., CN: CN202110739738,
