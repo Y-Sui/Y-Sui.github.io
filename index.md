@@ -5,7 +5,9 @@ layout: default
 
 - **[1] Knowledge+NLP (K+NLP)**: Natural Language Processing, Deep Learning & Reasoning, Semantic Parsing, Transfer Learning, Big Model Probing
 - **[2] Data, Knowledge and Intelligence (DKI)**: Semi-structured Data Reasoning, Big Data Processing & Reasoning, Causal Inference, Knowledge Representation Learning.
-![avatar](/assets/img/Research Interest.png)
+<div align="center">
+<img src=/assets/img/research_interest.png width=85% />
+</div>
 
 <!-- I’m interested in developing intelligent systems (**trustworthy AI**) that can demonstrate a deep understanding of the world with common-sense knowledge and reasoning ability by teaching machines to think, talk, and act as humans do. To this end, I am really interested in integrating techniques of _<u>information extraction</u>_, _<u>knowledge representation learning</u>_, _<u>graph-neural network</u>_, _<u>semantic parsing</u>_, etc. Besides, I am also interested in _<u>causal inference</u>_, _<u>interpretability and robustness of the ptms</u>_ and _<u>transfer learning</u>_ topics.  -->
 
