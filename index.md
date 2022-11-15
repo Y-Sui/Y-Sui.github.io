@@ -3,11 +3,24 @@ layout: default
 ---
 ## Research Interests
 
+The big picture of my research interests lies in democratizing data intelligence to empower people and organizations to derive insights, learn and share knowledge, and build intelligence to turn data into action. Regardless of the various forms of data, understanding, generation, and interaction are the three common themes. Data understanding aims to achieve semantic understanding of various types of data; Data generation is targeted for automatic content generation based on users' needs; and Data interaction aims to create unparalleled user experiences working with data like recommendation or information retrieval.
+
+### A few questions that drive my recent research are:
+- how can we get models to efficiently learn knowledge, or can we inject some knowledge to the foundation models?
+- how can we advance better models and humans' collaborations?
+- how can we reduce potential harms (fairness, privacy and bias) learned by the model?
+
+To this end, I am interested in these two types of related technologies:
 - **[1] Knowledge+NLP (K+NLP)**: Natural Language Processing, Deep Learning & Reasoning, Semantic Parsing, Transfer Learning, Big Model Probing
 - **[2] Data, Knowledge and Intelligence (DKI)**: Semi-structured Data Reasoning, Big Data Processing & Reasoning, Causal Inference, Knowledge Representation Learning.
-<div align="center">
+
+
+### Expectation:
+I hope my research interest is grounded as I intend to get data and inspiration from real problems in different domains, I also want to apply the research results to make real-world impact.
+
+<!-- <div align="center">
 <img src=/assets/img/research_interest.png width=85% />
-</div>
+</div> -->
 
 <!-- I’m interested in developing intelligent systems (**trustworthy AI**) that can demonstrate a deep understanding of the world with common-sense knowledge and reasoning ability by teaching machines to think, talk, and act as humans do. To this end, I am really interested in integrating techniques of _<u>information extraction</u>_, _<u>knowledge representation learning</u>_, _<u>graph-neural network</u>_, _<u>semantic parsing</u>_, etc. Besides, I am also interested in _<u>causal inference</u>_, _<u>interpretability and robustness of the ptms</u>_ and _<u>transfer learning</u>_ topics.  -->
 
